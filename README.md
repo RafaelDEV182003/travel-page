@@ -1,13 +1,11 @@
-# Responsive Travel Website 🌊
-## [Watch it on youtube](https://youtu.be/YzRDHxbw1RU)
+# Travel Website 🌊
 ###  Responsive Travel Website 🌊
 
-- Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
-- Contains animations when scrolling.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Site de viagens para as mais belas praias, em HTML, CSS e JAVASCRIPT.
+- Contém animações durante a rolagem.
+- Inclui um modo claro e escuro.
+- Desenvolvido primeiro com a metodologia Mobile First, depois para desktop.
+- Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![travel-website](/preview.png)
+![site-de-viagem](/preview.png)
